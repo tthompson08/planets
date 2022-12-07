@@ -1,2 +1,8 @@
 Cold and dry. The temperature was near zero
+<<<<<<< HEAD
 I was there last year, and I have snacks
+=======
+I was there last year
+ 
+ there's a noise out here...we are not alone
+>>>>>>> ee74ce56bdf3879b78d5a3ea43208d97deeb165e
